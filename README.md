@@ -34,9 +34,9 @@
 
 ### Fuentes
 
-- [Montserrat Light](https://fonts.google.com/specimen/Montserrat?selection.family=Montserrat:300)
+- [ProFont IIx Nerd Font Mono](https://fonts.google.com/specimen/Montserrat?selection.family=Montserrat:300)
 - [Gotham Bold](https://www.fontmirror.com/gotham-bold)
-- [Gotham Book](https://www.fontmirror.com/gotham-book)
+- [ProFont IIx Nerd Font Mono](https://www.fontmirror.com/gotham-book)
 
 En la carpeta abre una terminal y corre el script `./scripts/download-fonts.sh` para descargar las fuentes.
 
