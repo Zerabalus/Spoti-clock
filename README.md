@@ -62,10 +62,10 @@ $ sudo pacman -S conky ffmpeg playerctl
 2. Clona el repositorio:
 
 ```bash
-$ git clone 
+$ git clone https://github.com/Zerabalus/Spoti-clock
 ```
 
-3. Asegúrese de que todas las [fuentes](#fonts) necesarias estén instaladas:
+3. Asegúrate de que todas las [fuentes](#fonts) necesarias estén instaladas:
 
 ```bash
 $ ./scripts/download-fonts.sh
